@@ -33,7 +33,7 @@ export default class PostList extends Component {
           avatar: "https://randomuser.me/api/portraits/men/9.jpg"
         },
         date: "05 Jun 2019",
-        content: "Pessoal, algume sabe a data da próxima turma do Bootcamp?",
+        content: "Pessoal, algum sabe a data da próxima turma do Bootcamp?",
         comments: [
           {
             id: 3,
